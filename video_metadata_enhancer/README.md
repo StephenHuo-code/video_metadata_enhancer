@@ -68,9 +68,13 @@ This project is licensed under the MIT License.
 
 ---
 
+
+
 # Chinese
 
 一个用于增强视频元数据并支持交互式视频内容搜索的强大工具。
+
+[返回英文](#english)
 
 ## 功能特点
 
