@@ -1,0 +1,4 @@
+gradio>=5.0.0
+pillow
+numpy
+yt-dlp>=2023.0.0
